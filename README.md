@@ -3,18 +3,12 @@
 
 # GoyalTECH - The Open Source AI Platform
 
-**[Onyx](https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme)** is the application layer for LLMs - bringing a feature-rich interface that can be easily hosted by anyone.
-Onyx enables LLMs through advanced capabilities like RAG, web search, code execution, file creation, deep research and more.
+GoyalTech is the application layer for LLMs - bringing a feature-rich interface that can be easily hosted by anyone.
+GTI enables LLMs through advanced capabilities like RAG, web search, code execution, file creation, deep research and more.
 
-Connect your applications with over 50+ indexing based connectors provided out of the box or via MCP.
+Connect your applications with over 50+ indexing based connectors provided out of the box
 
-> [!TIP]
-> Deploy with a single command:
-> ```
-> curl -fsSL https://onyx.app/install_onyx.sh | bash
-> ```
-
-![Onyx Chat Silent Demo](https://github.com/onyx-dot-app/onyx/releases/download/v3.0.0/Onyx.gif)
+GoyalTech Chat Silent Demo
 
 ---
 
